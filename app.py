@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 #import seaborn as sns
 #import matplotlib.pyplot as plt
-from sklearn.metrics import (
+#from sklearn.metrics import (
     accuracy_score,
     precision_score,
     recall_score,
@@ -13,11 +13,11 @@ from sklearn.metrics import (
     confusion_matrix,
     RocCurveDisplay
 )
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model import LogisticRegression
-from xgboost import XGBClassifier
-from sklearn.preprocessing import StandardScaler
+#from sklearn.model_selection import train_test_split
+#from sklearn.ensemble import RandomForestClassifier
+#from sklearn.linear_model import LogisticRegression
+#from xgboost import XGBClassifier
+#from sklearn.preprocessing import StandardScaler
 
 #Configuración de la página Streamlit
 st.set_page_config(
