@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 #import joblib
 import numpy as np
-import seaborn as sns
+#import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import (
     accuracy_score,
